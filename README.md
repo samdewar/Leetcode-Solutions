@@ -1,4 +1,4 @@
 # Leetcode-Solutions
-Been Doing Leetcode
+Recently Started Doing Leetcode
 Here are some solutions
 https://leetcode.com/samdewar/
